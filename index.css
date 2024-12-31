@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: radial-gradient(black, transparent);
+  color: white;
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+}
